@@ -1,0 +1,81 @@
+./train_InceptionResnetV2.sh: 8: ./train_InceptionResnetV2.sh: source: not found
+Traceback (most recent call last):
+  File "../code35/train/train_InceptionResnetV2.py", line 19, in <module>
+    import pretrainedmodels
+  File "/home/tang/anaconda2/lib/python2.7/site-packages/pretrainedmodels/__init__.py", line 4, in <module>
+    from . import datasets
+  File "/home/tang/anaconda2/lib/python2.7/site-packages/pretrainedmodels/datasets/__init__.py", line 1, in <module>
+    from .voc import Voc2007Classification
+  File "/home/tang/anaconda2/lib/python2.7/site-packages/pretrainedmodels/datasets/voc.py", line 5, in <module>
+    from urllib.parse import urlparse
+ImportError: No module named parse
+Traceback (most recent call last):
+  File "../code35/train/train_InceptionResnetV2.py", line 19, in <module>
+    import pretrainedmodels
+  File "/home/tang/anaconda2/lib/python2.7/site-packages/pretrainedmodels/__init__.py", line 4, in <module>
+    from . import datasets
+  File "/home/tang/anaconda2/lib/python2.7/site-packages/pretrainedmodels/datasets/__init__.py", line 1, in <module>
+    from .voc import Voc2007Classification
+  File "/home/tang/anaconda2/lib/python2.7/site-packages/pretrainedmodels/datasets/voc.py", line 5, in <module>
+    from urllib.parse import urlparse
+ImportError: No module named parse
+Traceback (most recent call last):
+  File "../code35/train/train_InceptionResnetV2.py", line 19, in <module>
+    import pretrainedmodels
+  File "/home/tang/anaconda2/lib/python2.7/site-packages/pretrainedmodels/__init__.py", line 4, in <module>
+    from . import datasets
+  File "/home/tang/anaconda2/lib/python2.7/site-packages/pretrainedmodels/datasets/__init__.py", line 1, in <module>
+    from .voc import Voc2007Classification
+  File "/home/tang/anaconda2/lib/python2.7/site-packages/pretrainedmodels/datasets/voc.py", line 5, in <module>
+    from urllib.parse import urlparse
+ImportError: No module named parse
+Traceback (most recent call last):
+  File "../code35/train/train_InceptionResnetV2.py", line 19, in <module>
+    import pretrainedmodels
+  File "/home/tang/anaconda2/lib/python2.7/site-packages/pretrainedmodels/__init__.py", line 4, in <module>
+    from . import datasets
+  File "/home/tang/anaconda2/lib/python2.7/site-packages/pretrainedmodels/datasets/__init__.py", line 1, in <module>
+    from .voc import Voc2007Classification
+  File "/home/tang/anaconda2/lib/python2.7/site-packages/pretrainedmodels/datasets/voc.py", line 5, in <module>
+    from urllib.parse import urlparse
+ImportError: No module named parse
+Traceback (most recent call last):
+  File "../code35/train/train_InceptionResnetV2.py", line 19, in <module>
+    import pretrainedmodels
+  File "/home/tang/anaconda2/lib/python2.7/site-packages/pretrainedmodels/__init__.py", line 4, in <module>
+    from . import datasets
+  File "/home/tang/anaconda2/lib/python2.7/site-packages/pretrainedmodels/datasets/__init__.py", line 1, in <module>
+    from .voc import Voc2007Classification
+  File "/home/tang/anaconda2/lib/python2.7/site-packages/pretrainedmodels/datasets/voc.py", line 5, in <module>
+    from urllib.parse import urlparse
+ImportError: No module named parse
+Traceback (most recent call last):
+  File "../code35/train/train_InceptionResnetV2.py", line 19, in <module>
+    import pretrainedmodels
+  File "/home/tang/anaconda2/lib/python2.7/site-packages/pretrainedmodels/__init__.py", line 4, in <module>
+    from . import datasets
+  File "/home/tang/anaconda2/lib/python2.7/site-packages/pretrainedmodels/datasets/__init__.py", line 1, in <module>
+    from .voc import Voc2007Classification
+  File "/home/tang/anaconda2/lib/python2.7/site-packages/pretrainedmodels/datasets/voc.py", line 5, in <module>
+    from urllib.parse import urlparse
+ImportError: No module named parse
+Traceback (most recent call last):
+  File "../code35/train/train_InceptionResnetV2.py", line 19, in <module>
+    import pretrainedmodels
+  File "/home/tang/anaconda2/lib/python2.7/site-packages/pretrainedmodels/__init__.py", line 4, in <module>
+    from . import datasets
+  File "/home/tang/anaconda2/lib/python2.7/site-packages/pretrainedmodels/datasets/__init__.py", line 1, in <module>
+    from .voc import Voc2007Classification
+  File "/home/tang/anaconda2/lib/python2.7/site-packages/pretrainedmodels/datasets/voc.py", line 5, in <module>
+    from urllib.parse import urlparse
+ImportError: No module named parse
+Traceback (most recent call last):
+  File "../code35/train/train_InceptionResnetV2.py", line 19, in <module>
+    import pretrainedmodels
+  File "/home/tang/anaconda2/lib/python2.7/site-packages/pretrainedmodels/__init__.py", line 4, in <module>
+    from . import datasets
+  File "/home/tang/anaconda2/lib/python2.7/site-packages/pretrainedmodels/datasets/__init__.py", line 1, in <module>
+    from .voc import Voc2007Classification
+  File "/home/tang/anaconda2/lib/python2.7/site-packages/pretrainedmodels/datasets/voc.py", line 5, in <module>
+    from urllib.parse import urlparse
+ImportError: No module named parse
